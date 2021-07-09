@@ -20,3 +20,13 @@ Link to NBViewer - http://tiny.cc/os3auz
 
 -------------
 
+
+![S1](https://github.com/gofornaman/Predicting-Customer-Churn-using-PyCaret/blob/main/img/c1.PNG)
+
+![S2](https://github.com/gofornaman/Predicting-Customer-Churn-using-PyCaret/blob/main/img/c4.PNG)
+
+![S3](https://github.com/gofornaman/Predicting-Customer-Churn-using-PyCaret/blob/main/img/c2.PNG)
+
+![S4](https://github.com/gofornaman/Predicting-Customer-Churn-using-PyCaret/blob/main/img/c3.PNG)
+
+-------------
